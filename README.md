@@ -18,4 +18,5 @@
 - [x] 雅谷小说 [eyagu.com](http://eyagu.com)
 - [x] 值得阅读 [xcfcch.com](http://xcfcch.com)
 - [x] 米读小说 [midukanshu.com](http://midukanshu.com)
+- [x] 番茄小说 [fanqienovel.com](https://fanqienovel.com)
 - [x] 羞羞漫画 [sinaappxx6.q236.cn](http://sinaappxx6.q236.cn)
